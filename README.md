@@ -15,4 +15,4 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline that ret
 - FAISS
 
 ## Usage
-Open `rag_colab.ipynb` in Google Colab and run cells sequentially.
+Open the ipynb file in Google Colab and run cells sequentially.
