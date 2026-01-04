@@ -1,2 +1,18 @@
-# Retrieval-Augmented-Question-Answering-RAG-
-Designed and implemented an end-to-end Retrieval-Augmented Question Answering system using Sentence Transformers for semantic embeddings, FAISS for efficient vector similarity search, and a transformer-based LLM (FLAN-T5) for grounded answer generation, aiming to reduce hallucination in large language models.
+# Retrieval-Augmented Question Answering (RAG)
+
+This project implements a Retrieval-Augmented Generation (RAG) pipeline that retrieves relevant documents using vector similarity search and generates grounded answers using a transformer-based language model.
+
+## Features
+- Sentence embeddings using Sentence Transformers
+- FAISS-based semantic retrieval
+- LLM-based answer generation (FLAN-T5)
+- End-to-end pipeline in Google Colab
+
+## Technologies
+- Python
+- PyTorch
+- Hugging Face Transformers
+- FAISS
+
+## Usage
+Open `rag_colab.ipynb` in Google Colab and run cells sequentially.
